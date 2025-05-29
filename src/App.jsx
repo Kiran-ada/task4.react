@@ -1,9 +1,10 @@
-import Cards from "./components/cards.jsx";
+import Cards from "./components/Card.jsx";
+
 
 function App() {
   return (
     <div className="App">
-      <Cards />
+      <Cards/>
     </div>
   );
 }
